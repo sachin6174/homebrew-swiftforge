@@ -7,7 +7,7 @@ cask "swiftforge" do
   desc "Native SwiftUI app for practicing DSA and Swift/iOS interview questions offline"
   homepage "https://github.com/sachin6174/SwiftForge"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "SwiftForge.app"
 

@@ -1,6 +1,6 @@
 cask "swiftforge" do
-  version "1.1.0"
-  sha256 "62eff3eb2b2b04d08a5a5d3f4068ca5a77c15129a31e2222ad91b61081932f0b"
+  version "1.2.1"
+  sha256 "63a8b00f763ea04356ad97263fa0c3f34e929afd3c6f6b1f109b3f4e7a8d1240"
 
   url "https://github.com/sachin6174/SwiftForge/releases/download/v#{version}/SwiftForge.dmg"
   name "SwiftForge"
